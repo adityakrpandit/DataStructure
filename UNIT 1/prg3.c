@@ -1,7 +1,8 @@
 /* Enrollment No: 92500527175 */
+/* 3. Create arrays A, B and C of size 3, perform C = A + B.  */
+
 
 #include <stdio.h>
-
 void main()
 {
     int A[3], B[3], C[3];
@@ -43,6 +44,4 @@ void main()
     {
         printf("%d ", C[i]);
     }
-
-    return 0;
 }
