@@ -1,4 +1,5 @@
 /* Enrollment No: 92500527175 */
+/* 7. Delete an element from the array from user defined position.*/
 
 
 #include<stdio.h>
