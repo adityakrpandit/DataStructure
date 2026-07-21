@@ -1,4 +1,6 @@
 /* Enrollment No: 92500527175 */
+/* 4. Create arrays A, B of size 3, C of size 6, merge A and B into C. */ 
+
 
 #include <stdio.h>
 
@@ -48,6 +50,4 @@ void  main()
     {
         printf("%d ", C[i]);
     }
-
-    return 0;
 }
