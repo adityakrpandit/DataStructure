@@ -1,4 +1,6 @@
 /* Enrollment no- 92500527175*/
+/*1. Create an array of size 10, input values and print the array, and search an element in the array.*/ 
+
 
 #include <stdio.h>
 
@@ -36,6 +38,4 @@ void main()
     {
         printf("\nElement not found.");
     }
-
-    return 0;
 }
