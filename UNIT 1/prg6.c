@@ -1,4 +1,5 @@
 /* Enrollment No: 92500527175 */
+/* 6. Insert an element into the array at user defined position. */
 
 #include<stdio.h>
 
