@@ -1,16 +1,26 @@
-# Unit 1 – Introduction of Data Structure
+# Unit 1 – Introduction to Data Structure
 
-This folder contains practical programs based on **Arrays and basic data structure concepts**.
+## Overview
 
-## Practicals
+This unit introduces the fundamental concepts of **Data Structures** and their importance in organizing, storing, and managing data efficiently.
 
-1. Create an array of size 10, input values, print the array, and search an element.
-2. Create an array of size 10 and find the sum and average of all elements.
-3. Create arrays A, B, and C of size 3 and perform `C = A + B`.
-4. Merge arrays A and B into array C of size 6.
-5. Find the largest value from an array of size 10.
-6. Insert an element at a user-defined position.
-7. Delete an element from a user-defined position.
-8. Sort an array in ascending order.
-9. Sort an array in descending order.
-10. Write a program to multiply two matrices.
+## Topics Covered
+
+* Introduction to Data Structures
+* Types of Data Structures
+* Linear and Non-Linear Data Structures
+* Arrays and their operations
+* Searching in Arrays
+* Insertion and Deletion
+* Array Traversal
+* Sorting Techniques
+* Merging Arrays
+* Matrix Operations
+
+## Practical Work
+
+The practical programs in this unit focus on implementing and understanding basic operations on **arrays and matrices**.
+
+## Objective
+
+To understand the fundamentals of data organization and develop basic programming skills for implementing data structures.
