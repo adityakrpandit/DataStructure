@@ -1,26 +1,27 @@
-# Unit 1 – Introduction to Data Structure
+# Unit 2 – Stack and Queue
 
 ## Overview
 
-This unit introduces the fundamental concepts of **Data Structures** and their importance in organizing, storing, and managing data efficiently.
+This unit focuses on **Stack and Queue**, two important linear data structures, along with their operations and applications.
 
 ## Topics Covered
 
-* Introduction to Data Structures
-* Types of Data Structures
-* Linear and Non-Linear Data Structures
-* Arrays and their operations
-* Searching in Arrays
-* Insertion and Deletion
-* Array Traversal
-* Sorting Techniques
-* Merging Arrays
-* Matrix Operations
+* Introduction to Stack
+* Stack Operations: Push, Pop, Peek, Peep and Change
+* Stack Implementation using Arrays
+* Applications of Stack
+* Recursion and Stack
+* Factorial using Stack and Recursion
+* String Reversal using Stack
+* Power Calculation using Stack
+* Introduction to Queue
+* Queue Operations: Insert, Delete and Display
+* Simple Queue Implementation
 
 ## Practical Work
 
-The practical programs in this unit focus on implementing and understanding basic operations on **arrays and matrices**.
+The practical programs in this unit focus on implementing **Stack and Queue** and solving problems using recursion and stack-based approaches.
 
 ## Objective
 
-To understand the fundamentals of data organization and develop basic programming skills for implementing data structures.
+To understand the working, operations, and practical applications of **Stack and Queue** in data structure programming.
