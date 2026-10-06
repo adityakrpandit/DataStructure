@@ -16,4 +16,4 @@ This unit covers **Linked List** concepts and their implementation in C.
 
 - C
 
-**BCA – Data Structure**
+**Data Structure**
