@@ -16,4 +16,4 @@ This unit covers **Tree** concepts and their implementation in C.
 
 - C
 
-**BCA – Data Structure**
+**Data Structure**
