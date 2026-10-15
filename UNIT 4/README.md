@@ -4,8 +4,8 @@ This unit covers **Tree** concepts and their implementation in C.
 
 ## Topics Covered
 
--  Binary Tree
--  Binary Search Tree
+*  Binary Tree
+*  Binary Search Tree
 
 ## Programs
 
