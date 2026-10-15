@@ -4,8 +4,8 @@ This unit covers **Linked List** concepts and their implementation in C.
 
 ## Topics Covered
 
-- Singly Linked List
-- Doubly Linked List
+* Singly Linked List
+* Doubly Linked List
 
 ## Programs
 
