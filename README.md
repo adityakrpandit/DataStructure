@@ -89,6 +89,7 @@ This unit covers graph representation and traversal algorithms.
 
 ## Repository Structure
 
+```text
 DataStructure/
 ├── UNIT 1/
 │   └── Array and Matrix Programs
@@ -101,6 +102,7 @@ DataStructure/
 ├── UNIT 5/
 │   └── Graph, BFS and DFS Programs
 └── README.md
+```
 
 
 
