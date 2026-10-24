@@ -1,6 +1,6 @@
 # Data Structure Using C
 
-This repository contains practical programs for **Data Structure Using C (05BC3302)** as part of the Bachelor of Computer Applications (BCA), Semester 3, at Marwadi University.
+This repository contains practical programs for **Data Structure Using C** as part of the Bachelor of Computer Applications (BCA), Semester 3, at Marwadi University.
 
 ## Course Information
 
